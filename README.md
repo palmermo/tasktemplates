@@ -9,9 +9,9 @@ As a [--user type--] I want [--description of feature--] so that [--what you wan
 
 Acceptance Criteria
 
-Show the user is able to
-Show that there is
-Show that there is
+* Show the user is able to..
+* Show that there is..
+* Show that there is..
 
 ## New Feature Advanced
 
@@ -23,36 +23,36 @@ As a [Type of user] I want [describe the desired feature/what you would like to 
 
 Acceptance Criteria
 
-•Show user is able to [desired user interaction]
-•Show there is a [desired user feature]
-•Show user is able to [desired user interaction]
-•Show there is a [desired user feature]
+• Show user is able to [desired user interaction]
+• Show there is a [desired user feature]
+• Show user is able to [desired user interaction]
+• Show there is a [desired user feature]
 
 ## Feature Improvement
 
 Current Behavior
  
-Describe what is happening now.
-Describe what is happening even more.
-[Include video, photos, links etc.]
+* Describe what is happening now.
+* Describe what is happening even more.
+* [Include video, photos, links etc.]
 
 Requested  Change 
 
-Describe what should happen.
-Describe what should happen even more.
-[Include video, photos, mockups. links etc.]
+* Describe what should happen.
+* Describe what should happen even more.
+* [Include video, photos, mockups. links etc.]
 
 ## Bug report
 
 Current Behavior
 
-Describe what is happening now.
-Describe what is happening even more.
+* Describe what is happening now.
+* Describe what is happening even more.
 
 Expected  Behavior 
 
-Describe what should happen
-Describe what should happen
+* Describe what should happen
+* Describe what should happen
 
 [Attach a video or photo outlining the steps that cause the bug]
 
@@ -63,9 +63,9 @@ Company Website
 Onboarding details:
 
 Point of contact(s)
-[Full Name], [name@email.com], [contact number]
-[Full Name], [name@email.com], [contact number]
-[Full Name], [name@email.com], [contact number]
+* [Full Name], [name@email.com], [contact number]
+* [Full Name], [name@email.com], [contact number]
+* [Full Name], [name@email.com], [contact number]
 
 Instance launch date
 
@@ -76,12 +76,12 @@ Attach Logo + other assets
 
 Definition of Done
 
-Feature is Android/iPhone responsive
-Feature is optimized for tablets
-Approved by CTO/Code Reviewer
-Deployed to Dev Instance
-Matches UI Mockup
-No defects
+* Feature is Android/iPhone responsive
+* Feature is optimized for tablets
+* Approved by CTO/Code Reviewer
+* Deployed to Dev Instance
+* Matches UI Mockup
+* No defects
 
 [Add mockups, photos, links where necessary]
 
