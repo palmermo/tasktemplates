@@ -16,17 +16,17 @@ Acceptance Criteria
 ## New Feature Advanced
 
 Background
-Include any emails, Whatsapp convos, conversations or background on the feature that would be helpful for the developers to know]
+Include any emails, Whatsapp convos, conversations or background on the feature that would be helpful for the developers to know.
 
 User Story
 As a [Type of user] I want [describe the desired feature/what you would like to do] so that I can [describe why the user would like to do that]
 
 Acceptance Criteria
 
-• Show user is able to [desired user interaction]
-• Show there is a [desired user feature]
-• Show user is able to [desired user interaction]
-• Show there is a [desired user feature]
+* Show user is able to [desired user interaction]
+* Show there is a [desired user feature]
+* Show user is able to [desired user interaction]
+* Show there is a [desired user feature]
 
 ## Feature Improvement
 
