@@ -1,6 +1,6 @@
 # Tasktemplates
 
-New Feature Requests
+##New Feature Requests
 
 User Story
 As a [--user type--] I want [--description of feature--] so that [--what you want the feature to accomplish--]
@@ -11,7 +11,7 @@ Show the user is able to
 Show that there is
 Show that there is
 
-New Feature Advanced
+##New Feature Advanced
 
 Background
 Include any emails, Whatsapp convos, conversations or background on the feature that would be helpful for the developers to know]
@@ -26,7 +26,7 @@ Acceptance Criteria
 •Show user is able to [desired user interaction]
 •Show there is a [desired user feature]
 
-Feature Improvement
+##Feature Improvement
 
 Current Behavior
  
@@ -40,6 +40,8 @@ Describe what should happen.
 Describe what should happen even more.
 [Include video, photos, mockups. links etc.]
 
+##Bug report
+
 Current Behavior
 
 Describe what is happening now.
@@ -51,6 +53,8 @@ Describe what should happen
 Describe what should happen
 
 [Attach a video or photo outlining the steps that cause the bug]
+
+##New Instance Request
 
 Company Website
 
