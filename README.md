@@ -1,4 +1,6 @@
 # Tasktemplates
+This readme outlines templates that can be used for different facets of product development. Included are templates for user stories, acceptance criteria, definition of done and story points using fibonacci numbers.
+These are organized under sections: feature requests, bug reports and new instances.
 
 ## New Feature Requests
 
